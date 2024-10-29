@@ -9,4 +9,4 @@
 
 <h3 align="center">Securing the digital world, One byte at a time</h3>
 
-### This repository contains the writeups for all the challenges under ApoorvCTF
+### This repository contains the writeups for all the CTF challenges authored by us.
