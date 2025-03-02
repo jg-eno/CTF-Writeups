@@ -4,7 +4,7 @@
 **Points:** 500  
 **Difficulty:** Hard  
 **Category:** Hardware
-![[usb.svg]]
+![usb.svg](usb.svg)
 ## Description
 
 In the neon-drenched underbelly of Akihabara City, the rogue AI **KAI-7** has locked away the final activation sequence for the legendary **Mecha-Seraphim**. The code is hidden within a mysterious hardware module, a relic of a bygone era, its secrets buried beneath layers of encrypted registers and tangled circuitry.
@@ -19,9 +19,9 @@ The fate of **Mecha-Seraphim** lies in your hands. **Observe. Decipher. Exploit.
 
 ##### Given Files
 
-1. ![[alu.pdf]]
-2. ![[diagram.pdf]]
-3. ![[decimal_string.py]]
+1. ![alu.pdf](alu.pdf)
+2. ![diagram.pdf](diagram.pdf)
+3. ![decimal_string.py](decimal_string.py)
 
 ---
 **Flag:**apoorvctf{b7x9p_2dn_u}
@@ -47,10 +47,10 @@ Converting this decimal value to a string resulted in gibberish.
 
 1. **Identify the Glitch**  
    A careful analysis of the circuit diagram revealed the presence of a **comparator**. By applying a voltage greater than **3.8V** to the non-inverting pin, the comparator output was driven **high**, altering the **ALU operations** to:
-![[when_comparator.svg]]
+![comparator](when_comparator.svg)
 VCC<3.8
 
-![[when_comparator_on.svg]]
+![when_comparator_on.svg](when_comparator_on.svg)
 VCC>3.8
 
    ```

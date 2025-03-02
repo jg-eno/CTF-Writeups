@@ -4,7 +4,7 @@
 **Points:** 500  
 **Difficulty:** Medium
 **Category:** Hardware
-![[Mangekyou_Sharingan_Madara.svg]]
+![sharingan](Mangekyou_Sharingan_Madara.svg)
 ## Description
 
 During the **Fourth Great Cyber War**, an enigmatic entity—rumored to be from the **Uchiha clan**—broadcasted a cryptic serial transmission across the digital battlefield. The intercepted signal, fragmented and modulated at varying speeds, concealed an encrypted message hidden beneath the noise. Was this just a simple transmission, or the key to an impending **digital Genjutsu**?
@@ -44,7 +44,7 @@ Players were provided with:
 ---
 ## The Plot
 
-![[naruto.fig]]
+[naruto.fig](naruto.fig)
 
 ## Scripts Used
 
