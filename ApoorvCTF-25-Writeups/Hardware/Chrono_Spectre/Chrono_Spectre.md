@@ -6,7 +6,7 @@
 **Category:** Hardware
 
 
-![[boo.svg]]
+![boo.svg]
 ## Description
 
 Deep within the cyber-ruins of _Neo-Tokyo_, an abandoned **prototype CPU** lies dormant—its architecture lost to time, its secrets buried within the very fabric of its execution. Legend speaks of the _Chrono Engine_, an experimental processor designed by the enigmatic _Dr. Akihiko Mori_, a genius whose research vanished under mysterious circumstances.
